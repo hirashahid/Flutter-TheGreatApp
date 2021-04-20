@@ -4,7 +4,7 @@
         android:label="flutter_thegreatplacesapp"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-              android:value="AIzaSyDNRH-kVki-SXEOpOmWRAwUHRrN5sgCSyo"/>  
+              android:value="AIzaSyBWJX90pJYJLRebv09oeZ4M8iwtE5PWYdc"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
